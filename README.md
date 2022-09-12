@@ -1,3 +1,6 @@
+
+##Wine Quality Prediction
+
 Description of Dataset
 If you download the dataset, you can see that several features will be used to classify the quality of wine, many of them are chemical, 
 so we need to have a basic understanding of such chemicals.
